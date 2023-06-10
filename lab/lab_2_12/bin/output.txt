@@ -1,0 +1,9 @@
+
+Исходная строка
+A search will be performed in this line.
+
+Искомая строка
+will
+
+Индекс первого вхождения
+  10

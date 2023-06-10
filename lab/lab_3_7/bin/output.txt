@@ -1,0 +1,25 @@
+
+Исходный список слов:
+was                 
+people              
+not                 
+isak                
+poly                
+omega               
+run                 
+pistol              
+was                 
+health              
+
+Список слов для удаления:
+isak                
+not                 
+was                 
+
+После удаления:
+people              
+poly                
+omega               
+run                 
+pistol              
+health              

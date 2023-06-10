@@ -1,0 +1,32 @@
+
+Исходный список:
+1 Aleksandrov    
+2 Aleksandrovskiy
+3 Belugov        
+4 Bivov          
+5 Kuvshinova     
+6 Kulik          
+7 Kushner        
+8 Novickiy       
+9 Safronov       
+10 Smirnov        
+11 Shipoenko      
+
+После добавления новых студентов:
+1 Aleksandrov    
+2 Aleksandrovskiy
+3 Belugov        
+4 Bivov          
+5 Koshkareva     
+6 Kuvshinova     
+7 Kulik          
+8 Kushner        
+9 Lapushkina     
+10 Lebedev        
+11 Novickiy       
+12 Paramonova     
+13 Safronov       
+14 Slastnikova    
+15 Smirnov        
+16 Shipoenko      
+17 Zagorodnya     
