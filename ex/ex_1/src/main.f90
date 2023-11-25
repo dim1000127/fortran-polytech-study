@@ -21,7 +21,7 @@ program exercise_1_5
    Items(1) = 1
    
    do i = 2, 4
-      Items(i) = Items(i-1) * squ / ((2 * i - 3)) * (2 * i - 2))
+      Items(i) = Items(i-1) * squ / (((2 * i - 3)) * (2 * i - 2))
    end do
    
    cos_x = Sum(Items)
